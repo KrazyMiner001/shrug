@@ -1,92 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".jj/repo/index/op_links/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-hash = "cbd2f459d90e73aca76dd891ab9de0154dfaf7a48b36c65b4880c830a193675c"
-
-[[files]]
-file = ".jj/repo/index/op_links/94be98e829a19e9e8072c4592edf5d875ad99c2290c34004b2ff1254601c7e43a96be647d093cb944ab9984b2eeb7f56601a612b01bf6189390829aa7d91082e"
-hash = "0524b1e3c1cb1cc41483a16717e797f800bf4693348db0c6694d089238152c7f"
-
-[[files]]
-file = ".jj/repo/index/operations/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-hash = "80bdd39f21255eccfe2e60635bed5c0d038cfc17ac50f2991142b0fc2e83379c"
-
-[[files]]
-file = ".jj/repo/index/operations/94be98e829a19e9e8072c4592edf5d875ad99c2290c34004b2ff1254601c7e43a96be647d093cb944ab9984b2eeb7f56601a612b01bf6189390829aa7d91082e"
-hash = "9f2bce2a1d8609e3fdb965a5c6504b18ebe3fec801d0b1d138c8296c0a4b3fe6"
-
-[[files]]
-file = ".jj/repo/index/segments/ce7f4d1e489ff0b95f6d0f1753691b5848bbe5a8462a1944ee002bc154ce8d678cb119ce692d50df4cde2edbfc65c0c6924e092a601ec98ce39ae2a4f58bc428"
-hash = "167555813df80c5cdf2c1a638dbda3d807766649d0da216db037fbae3fce5f32"
-
-[[files]]
-file = ".jj/repo/index/segments/d27ad326963b75736b636adad9fb812eb3f2871e0efb4bc7db37d4b701a4282911eaaee91bed3a759e940769b667be1ed66f2d7f2f41ac3906b87ab7eec19c3a"
-hash = "7dded0d7539a893e0a1314dd270a4c166b9e7d7b034255c27b4c6893f3fdbbc5"
-
-[[files]]
-file = ".jj/repo/index/type"
-hash = "37a8eec1ce19687d132fe29051dca629d164e2c4958ba141d5f4133a33f0688f"
-
-[[files]]
-file = ".jj/repo/op_heads/heads/94be98e829a19e9e8072c4592edf5d875ad99c2290c34004b2ff1254601c7e43a96be647d093cb944ab9984b2eeb7f56601a612b01bf6189390829aa7d91082e"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = ".jj/repo/op_heads/type"
-hash = "b033b33ef05b48b699b625dd905e19e3ad154d4c9a393f0623e60d6179a233b8"
-
-[[files]]
-file = ".jj/repo/op_store/operations/94be98e829a19e9e8072c4592edf5d875ad99c2290c34004b2ff1254601c7e43a96be647d093cb944ab9984b2eeb7f56601a612b01bf6189390829aa7d91082e"
-hash = "0ae6865bff735750ae42cf9ab31e9fc9917183caff6625abda56dff7323db18e"
-
-[[files]]
-file = ".jj/repo/op_store/type"
-hash = "ed58fb26ed304558ff125ef841b4ba29b7b0d94b810f1c5428312114ac4a0c1b"
-
-[[files]]
-file = ".jj/repo/op_store/views/b08198523a82a52a623f4f218139da91d17e0a091803b220afc1d87b8990be5832f7caeb965115aa44326900a67e6d4ca4654d5e5e7145fa15524ecc84f0ca8d"
-hash = "54acbb271a7422f4d2aeb0c226ae7f64a497943b61b3340a17b2aeb567c43a60"
-
-[[files]]
-file = ".jj/repo/store/extra/482ae5a29fbe856c7272f2071b8b0f0359ee2d89ff392b8a900643fbd0836eccd067b8bf41909e206c90d45d6e7d8b6686b93ecaee5fe1a9060d87b672101310"
-hash = "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc"
-
-[[files]]
-file = ".jj/repo/store/extra/554d9c88979d920b035c8628ddbb6b52ec22a209b089b4378b4b98f6f8351ad8b9be9a29abff1b0c1db2122715431a68ae71a71bbb66a398752233a82ddef17c"
-hash = "49aac0bd7461a8382ad370bef7bdbcb30aa1c2362f86df364ecab523804eba2c"
-
-[[files]]
-file = ".jj/repo/store/extra/heads/554d9c88979d920b035c8628ddbb6b52ec22a209b089b4378b4b98f6f8351ad8b9be9a29abff1b0c1db2122715431a68ae71a71bbb66a398752233a82ddef17c"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = ".jj/repo/store/git_target"
-hash = "6fce35d09d036a8aa687ec5aface9db45921166ea3bd2615c775afbb199a9d96"
-
-[[files]]
-file = ".jj/repo/store/type"
-hash = "9a881b9b9f23849475296a8cd768ea1965bc3152df7118e60c145975af6aa58a"
-
-[[files]]
-file = ".jj/repo/submodule_store/type"
-hash = "37a8eec1ce19687d132fe29051dca629d164e2c4958ba141d5f4133a33f0688f"
-
-[[files]]
-file = ".jj/working_copy/checkout"
-hash = "6805ba26e617089dbebe033a7eb26da62d6eba4dac7400ab118699bc48161424"
-
-[[files]]
-file = ".jj/working_copy/tree_state"
-hash = "2c8969a952d9c0962d28af18ec70f44aa9d4bf5aaf19184290bde307e43223b1"
-
-[[files]]
-file = ".jj/working_copy/type"
-hash = "25bf8e1a2393f1108d37029b3df5593236c755742ec93465bbafa9b290bddcf6"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
 metafile = true
 
 [[files]]
@@ -681,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "readme.md"
-hash = "77b506e814b88d170cced238de8552464f1b88ab8b6a93df5e6c1680a9e953f3"
+hash = "ef8f32be0747d6a6e2d1be1dd8a7d9eb39890800d355b53b07c00ab200e6081d"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
