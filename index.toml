@@ -256,6 +256,11 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "5916832d06322a7a54d87e1fe47da5009daed0213510573d9c311c5ceefa9937"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
 metafile = true
