@@ -431,11 +431,6 @@ hash = "f9b03a8d6466455294d823b23712e43bb9f26cb621d27b6134c150cf64cd671b"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-neoforge.pw.toml"
-hash = "b6d6120dedffe187d4f0ed69557e2f9a0c672759de3c3c70ddba56e35aacf21a"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "5052765d3a56ee165b0ed0e4004617b80dd5950968a73fe4956c3e2d99b279e2"
 metafile = true
