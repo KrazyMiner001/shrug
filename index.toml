@@ -21,8 +21,18 @@ hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "f3ab8f1de5571de21ab2247fcfedef8a2bf40dcf0b2ac9e90d39689a20b9e7b4"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
 metafile = true
 
 [[files]]
@@ -123,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/cpmsvcc.pw.toml"
 hash = "de28e3702a5f987a8c904ad39d86dccf41614a16cb80bf1673ea08e60cfed2c0"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "88f0ed2720f25b03440898c6f953bb50e709fc9f5af6cd376b98977b1d40c275"
 metafile = true
 
 [[files]]
@@ -256,6 +271,11 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "5916832d06322a7a54d87e1fe47da5009daed0213510573d9c311c5ceefa9937"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
 metafile = true
@@ -386,6 +406,11 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
@@ -428,11 +453,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "f9b03a8d6466455294d823b23712e43bb9f26cb621d27b6134c150cf64cd671b"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps-neoforge.pw.toml"
-hash = "b6d6120dedffe187d4f0ed69557e2f9a0c672759de3c3c70ddba56e35aacf21a"
 metafile = true
 
 [[files]]
@@ -503,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "cae96aafa6cb54ff483c2a518178a805c9209d4ac8c464dda2c7a58da974741e"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
